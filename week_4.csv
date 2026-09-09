@@ -1,0 +1,4 @@
+Order_ID,Customer_Name,Order_Date,Product_Name,Quantity,Price
+101,Ravi,2026-08-01,"Laptop Bag",1,1500.00
+101,Ravi,2026-08-01,Mouse,2,500.00
+102,Priya,2026-08-02,Keyboard,1,1800.00
