@@ -1,0 +1,4 @@
+ProductID,ProductName,Price,Quantity,CategoryName
+101,Laptop,60000.00,10,Electronics
+102,"Mobile Phone",25000.00,20,Electronics
+103,T-Shirt,500.00,50,Clothing
